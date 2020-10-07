@@ -3,14 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+# FlutterLoginUI
+![Alt text](https://user-images.githubusercontent.com/72135469/95326883-e3970380-08c0-11eb-86a3-dc79199e78dd.png?raw=true "Login")
+![Alt text](https://user-images.githubusercontent.com/72135469/95326899-e72a8a80-08c0-11eb-9beb-c079c7a2bed6.png?raw=true "Signup")
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
